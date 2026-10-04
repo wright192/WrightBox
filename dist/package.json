@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"author": "Wright",
 	"homepage": "https://www.beepbox.co",
-	"description": "BeepBox is an online tool for sketching and sharing instrumental music.",
+	"description": "WrightBox is an online tool for sketching and sharing instrumental music.",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
