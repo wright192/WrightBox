@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2012-2024 John Nesky and contributing authors
+Copyright (c) 2026-2026. Wrights Constant and contributing authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
