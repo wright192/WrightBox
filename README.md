@@ -8,10 +8,7 @@ changes to the song, the URL is updated to reflect your changes. When you are
 satisfied with your song, just copy and paste the URL to save and share your
 song!
 
-WrightBox is a passion project, and will always be free to use. If you find it
-valuable and have the means, any gratuity via
-[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)
-would be appreciated!
+WrightBox is a passion project, and will always be free to use. # PLZ DONT TRY TO HYPNOTISE PEOPLE INTO THINKING ITS YOURS!
 
 WrightBox is developed by (Wright's Constant.) This source code
 is available under the [MIT license](LICENSE.md).
